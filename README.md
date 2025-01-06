@@ -138,6 +138,7 @@ Day 5-7: Focus on other topics that weren't covered in the playlist. Practise th
       - [Javascript Info](https://javascript.info/)
       - [Nisha Singla JS Playlist](https://youtu.be/Yy9A2rAkOgw?si=C6BeGQ6zLQjiyXFe) : Focus on the following concepts from this channel: Shallow and deep copy, `this` keyword, call apply bind, prototype
       - [Techsith](https://www.youtube.com/@Techsithtube): Check his interview questions playlist.
+      - [FrontendGeek JavaScript Interview Resources](https://www.frontendgeek.com/frontend-interview/javascript-interview) : Find best curated resources from Youtube, GitHub, and Custom Notes in a structured way to prepare for all the Javascript topics.
     </details>
 
     <details>
@@ -195,6 +196,12 @@ Adding below a list of small applications that you can practise:
         <li>
           <a href="https://github.com/sadanandpai/frontend-mini-challenges">JS Mini Challenges - Sadanand Pai</a>
         </li>
+	<li>
+          <a href="https://www.frontendgeek.com/frontend-interview/machine-coding-interview#infinite-scroll">Directly Practise - JS Mini Challenges</a>
+        </li>
+	<li>
+          <a href="https://www.frontendgeek.com/frontend-interview/machine-coding-interview">Machine Coding Resources & Practise - FrontendGeek</a>
+        </li>
         <li>
           <a href="https://youtu.be/3PHXvlpOkf4">Build 15 JS Projects by FreeCodeCamp</a>
         </li>
@@ -216,6 +223,7 @@ Adding below a list of small applications that you can practise:
 
 ### Week 3 : Jumping to Web Fundamentals!
 Don't forget to keep practising questions everyday, as it will not only make your concepts more clear but would also give confidence to solve tougher questions.
+Consolidated Resources to prepare for Web Technologies fundamentals - [FrontendGeek/Web-technologies](https://www.frontendgeek.com/frontend-interview/ui-technologies-interview)
 
 <details>
  <summary><strong>Web Vitals</strong></summary>
@@ -397,6 +405,7 @@ Listing some best resources for studying System Design in Frontend, go on and bi
  - [Chirag Goel YT Channel](https://www.youtube.com/watch?v=sV_4pOGosnU&list=PL4CFloQ4GGWICE0Tz6iXKfN3XWkXRlboU)
  - [BigFrontend Frontend Design Questions](https://bigfrontend.dev/design)
  - [GreatFrontend Design Questions](https://www.greatfrontend.com/system-design)
+ - [FrontendGeek System Design Questions](https://www.frontendgeek.com/frontend-interview/system-design-interview)
 
  The above resources will help you in understanding the way you can deal with System Design rounds, although these solutions are not the only ones, you can come up with your own ideas as well. Also, different interviewers have different expectations when they ask you to provide a design for any system, no solution is the best/concrete solution in that case, however you can follow this pattern for framing your answers:
 
@@ -429,6 +438,7 @@ Brush up your react by reading React docs and making some small apps in react.
   - [React by Example](https://reactbyexample.github.io/getting-started)
   - [React Handbook](https://reacthandbook.com/)
   - [React Coding Challenges](https://reactchallenges.live/dashboard/overview)
+  - [FrontendGeek React](https://www.frontendgeek.com/frontend-interview/react-interview)
 
 
 ### Week 6 : Get you hands dirty by practising some DSA questions!
